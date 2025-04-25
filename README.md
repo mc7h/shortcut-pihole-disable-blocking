@@ -22,8 +22,6 @@ An Apple Shortcut to disable blocking on a Pi-hole instance.
 
 ## Contributing
 
-Any and all feedback, feature requests, and issues are welcomed from the Pi-hole / GitHub community.
+Any and all feedback, feature requests, and issues are *most* welcome.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E01E15RC)
-
-If you find this project helpful, you can [buy me a coffee](https://ko-fi.com/E1E01E15RC) to support its development.
+If you find this project helpful, you can ☕️ [buy me a coffee](https://ko-fi.com/E1E01E15RC) to support its development.
